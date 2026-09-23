@@ -39,7 +39,6 @@ Raw data had quality issues, cleaned before importing to Power BI.
 - `SalesData_1000Rows_WithIssues_copy.xls` - Raw Data
 - `codathon.pdf - Documentation
 - `Question.docx-question document
-- `/images` - Dashboard Screenshots
 
 ## How to Run
 1. Download the .pbix file
